@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674489947106",
+    "project_id": "virtual-market-116d1",
+    "storage_bucket": "virtual-market-116d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674489947106:android:0d3c0f61a6c28239631fbb",
+        "android_client_info": {
+          "package_name": "com.example.virtual_marketplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJ9Xk30C2wvZ4rNzauvyiCoI1MBKN-TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
